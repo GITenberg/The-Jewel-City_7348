@@ -1,0 +1,22 @@
+_repo: The-Jewel-City_7348
+creator:
+  author:
+    agent_name: Macomber, Ben
+    alias: Macomber, Benjamin
+    birthdate: 1876
+    gutenberg_agent_id: '2434'
+    url: http://www.gutenberg.org/2009/agents/2434
+description: Cover -- Contents.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- !lcc 'TC'
+title: The Jewel City
+url: http://www.gutenberg.org/ebooks/7348
